@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "new jock",
+      "email": "joker@gmail.com",
+      "password": 123456,
+      "dateOfBirth": 1579157152,
+      "avatar": "https://img1.looper.com/img/gallery/we-now-know-the-one-time-batman-was-supposed-to-die/intro-1576009072.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "email": "batman@gmail.com",
+      "password": 123456,
+      "dateOfBirth": 1579157152,
+      "avatar": "https://img1.looper.com/img/gallery/we-now-know-the-one-time-batman-was-supposed-to-die/intro-1576009072.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Harley Quinn",
+      "email": "harley@gmail.com",
+      "password": 123456,
+      "dateOfBirth": 1579157152,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRehnPzSw7Vvsd93fk8L0-FJeZuUCyTvjFdYTpFAKEOtk2LtThs&s"
+    },
+    {
+      "name": "New user",
+      "email": "new@gmail.com",
+      "password": 123456,
+      "dateOfBirth": 1579157152,
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRehnPzSw7Vvsd93fk8L0-FJeZuUCyTvjFdYTpFAKEOtk2LtThs&s",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "content": "actually abc xyz",
+      "userId": 1,
+      "likeCount": 0,
+      "createdAt": 1579157152,
+      "image": "https://img1.looper.com/img/gallery/justice-league-snyder-cut-release-date-differences-plot-and-news/intro-1574196222.jpg"
+    },
+    {
+      "id": 2,
+      "content": "actually abc xyz",
+      "userId": 1,
+      "likeCount": 0,
+      "createdAt": 1579157152,
+      "image": "https://img1.looper.com/img/gallery/justice-league-snyder-cut-release-date-differences-plot-and-news/intro-1574196222.jpg"
+    },
+    {
+      "id": 3,
+      "content": "actually abc xyz",
+      "userId": 1,
+      "likeCount": 0,
+      "createdAt": 1579157152,
+      "image": "https://img1.looper.com/img/gallery/justice-league-snyder-cut-release-date-differences-plot-and-news/intro-1574196222.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "this is a comment",
+      "userId": 1,
+      "postId": 1,
+      "createdAt": 1579157152
+    },
+    {
+      "id": 2,
+      "content": "this is a comment",
+      "userId": 1,
+      "postId": 1,
+      "createdAt": 1579157152
+    },
+    {
+      "id": 3,
+      "content": "this is a comment",
+      "userId": 1,
+      "postId": 1,
+      "createdAt": 1579157152
+    }
+  ]
+}
